@@ -1,0 +1,14 @@
+ls  -  Lista todas as pasta e arquivos dentro de um diretório
+Ctrl + L  -  Limpar o terminal
+cd  -  Muda de paste dentro do sistema
+touch - Criar um arquivo
+mkdir - criar uma pasta
+cp  -  Copia arquivos e pastas
+mv  -  Mover arquivos e pasta / renomear arquivo
+rm -rf - Excluir arquivo ou pasta
+
+more - Ler arquivos de texto
+grep - Buscar um nome no arquivo
+
+Ctrl + shift + c  -  Para copiar
+Ctrl + shift + v  -  Para colar
